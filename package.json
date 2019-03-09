@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "TomohiroSeto",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^16.2.3"
+  }
 }
